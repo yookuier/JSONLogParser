@@ -1,0 +1,5 @@
+# Project exclude paths
+.idea
+*.iml
+hydra.xml
+scala_compiler.xml
